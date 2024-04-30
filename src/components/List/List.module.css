@@ -1,0 +1,22 @@
+.li{
+    width: 300px;
+    list-style-type: none;
+    color: red;
+    margin-top: 20px;
+}
+
+.btn {
+    padding: 5px;
+    background-color: red;
+    color: white;
+    margin-left: 20px;
+}
+
+
+.listItems{
+display: flex;
+justify-content: space-between;
+margin-bottom: 20px;
+align-items: center;
+
+}
